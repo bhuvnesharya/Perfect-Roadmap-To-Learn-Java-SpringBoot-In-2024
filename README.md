@@ -40,8 +40,22 @@ https://docs.oracle.com/en/java/javase/index.html
 <img width="682" alt="Screenshot 2024-01-17 at 12 41 30 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3ae8b521-bb06-4a8c-8623-bfdf40a82847">
 
 
-Understand the fundamentals of the Spring framework.
-Learn about Dependency Injection (DI) and Inversion of Control (IoC).
+1. Introduction to Spring
+2. Setting Up Spring Environment
+3. Inversion of Control (IoC)
+4. Dependency Injection (DI)
+5. Spring Beans
+6. Bean Scopes
+7. Bean Lifecycle
+8. Introduction to Aspect-Oriented Programming (AOP)
+9. Spring AOP Implementation
+10. Data Access with Spring JDBC
+11. Spring ORM
+12. Spring Transactions
+13. Spring MVC Basics
+
+Reference Spring Framework Official Documentation:
+https://docs.spring.io/spring-framework/reference/index.html
 
 # 3. Introduction to Spring Boot:
 
