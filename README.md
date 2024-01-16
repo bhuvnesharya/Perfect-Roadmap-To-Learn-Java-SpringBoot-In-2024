@@ -1,13 +1,39 @@
 # Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024
 Roadmap To Learn Java SpringBoot in 2024
 
-# 1. Java Fundamentals:
+# Role of Software Developer?
+
+<img width="686" alt="Screenshot 2024-01-17 at 12 21 15 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/edfce4d4-39c1-4df2-97d4-dd2736802ba3">
+
+
+# 1. Java Fundamentals - 1 Month
 
 ![java_logo_icon_168609](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/be8bc731-8025-42ee-9a58-1db5f82c71e5)
 
 
-Review core Java concepts, including collections and multithreading.
-Explore the latest features introduced in Java versions.
+1. Learn the Basics
+2. Control Flow
+3. Object-Oriented Programming (OOP)
+4. Methods and Functions
+5. Exception Handling
+6. Collections Framework
+7. Generics
+8. File I/O
+9. Threads and Concurrency
+10. Java API
+11. Java 8 and above Features
+12. Design Patterns
+13. Java Memory Management
+14. Unit Testing
+15. Java Frameworks
+16. Build Tools
+17. Version Control
+18. Coding Standards
+19. IDE Proficiency
+20. Java Latest Features
+
+Reference Java Official Documentation:
+https://docs.oracle.com/en/java/javase/index.html
 
 # 2. Spring Framework Basics:
 
