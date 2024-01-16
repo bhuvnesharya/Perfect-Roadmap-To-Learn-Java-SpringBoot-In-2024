@@ -84,8 +84,28 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
 # 4. Building RESTful APIs:
 
-Design and implement RESTful APIs using Spring Boot.
-Learn about request mappings, controllers, and response entities.
+<img width="903" alt="Screenshot 2024-01-17 at 1 16 12 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bbb0bed9-5f30-4ac8-8d56-6d8024b3a8e1">
+
+1. Understand RESTful Principles
+2. Set Up a Development Environment
+3. Plan API Endpoints
+4. HTTP Methods and Status Codes
+5. Request and Response Formats
+6. RESTful Routing
+7. Authentication and Authorization
+8. Request Validation
+9. Serialization and Deserialization
+10. API Documentation
+11. Error Handling
+12. Rate Limiting
+13. Testing
+14. Versioning
+15. Security Best Practices
+16. Logging and Monitoring
+17. Cross-Origin Resource Sharing (CORS)
+
+Reference REST API Official Documentation: 
+https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 # 5. Data Persistence:
 
