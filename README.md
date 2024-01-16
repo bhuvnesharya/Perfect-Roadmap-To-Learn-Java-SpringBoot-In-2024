@@ -35,7 +35,7 @@ Roadmap To Learn Java SpringBoot in 2024
 Reference Java Official Documentation:
 https://docs.oracle.com/en/java/javase/index.html
 
-# 2. Spring Framework Basics:
+# 2. Spring Framework Basics
 
 <img width="682" alt="Screenshot 2024-01-17 at 12 41 30 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3ae8b521-bb06-4a8c-8623-bfdf40a82847">
 
@@ -57,10 +57,28 @@ https://docs.oracle.com/en/java/javase/index.html
 Reference Spring Framework Official Documentation:
 https://docs.spring.io/spring-framework/reference/index.html
 
-# 3. Introduction to Spring Boot:
+# 3. Introduction to Spring Boot
 
-Get acquainted with the basics of Spring Boot.
-Set up a simple Spring Boot project.
+<img width="713" alt="Screenshot 2024-01-17 at 12 54 01 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/fbf79135-c34e-4c3c-867e-fbc5501f9339">
+
+1. Understanding Spring Boot
+2. Setting Up a Spring Boot Project
+3. Project Structure
+4. Spring Boot Auto-Configuration
+5. Application Properties and YAML Configuration
+6. Spring Boot Starters
+7. Spring Boot Embedded Servers
+8. Spring Boot Actuator
+9. Spring Boot Profiles
+10. Externalized Configuration
+11. Spring Boot DevTools
+12. Logging in Spring Boot
+13. Spring Boot Testing
+14. Spring Boot Web
+15. Spring Boot Data
+16. Spring Boot Security
+17. Handling Exceptions
+
 
 # 4. Building RESTful APIs:
 
