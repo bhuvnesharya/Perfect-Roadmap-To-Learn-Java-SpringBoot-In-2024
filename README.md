@@ -6,7 +6,7 @@ Roadmap To Learn Java SpringBoot in 2024
 <img width="686" alt="Screenshot 2024-01-17 at 12 21 15 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/edfce4d4-39c1-4df2-97d4-dd2736802ba3">
 
 
-# 1. Java Fundamentals - 1 Month
+# 1. Java Fundamentals
 
 ![java_logo_icon_168609](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/be8bc731-8025-42ee-9a58-1db5f82c71e5)
 
@@ -36,6 +36,9 @@ Reference Java Official Documentation:
 https://docs.oracle.com/en/java/javase/index.html
 
 # 2. Spring Framework Basics:
+
+<img width="682" alt="Screenshot 2024-01-17 at 12 41 30 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3ae8b521-bb06-4a8c-8623-bfdf40a82847">
+
 
 Understand the fundamentals of the Spring framework.
 Learn about Dependency Injection (DI) and Inversion of Control (IoC).
