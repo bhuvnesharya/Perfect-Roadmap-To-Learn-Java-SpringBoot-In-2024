@@ -82,7 +82,7 @@ https://docs.spring.io/spring-framework/reference/index.html
 Reference Spring Boot Official Documentation:
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
-# 4. Building RESTful APIs:
+# 4. Building RESTful APIs
 
 <img width="903" alt="Screenshot 2024-01-17 at 1 16 12 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bbb0bed9-5f30-4ac8-8d56-6d8024b3a8e1">
 
@@ -107,7 +107,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 Reference REST API Official Documentation: 
 https://docs.github.com/en/rest?apiVersion=2022-11-28
 
-# 5. Data Persistence:
+# 5. Data Persistence
 
 <img width="650" alt="Screenshot 2024-01-17 at 11 46 51 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6a5b64c-abe7-46d4-b24f-2ce1b90117b9">
 
@@ -131,7 +131,7 @@ https://docs.spring.io/spring-data/jpa/reference/index.html
 
 Image source: [Medium](https://medium.com/javarevisited)
 
-# 6. Spring Security:
+# 6. Spring Security
 
 <img width="829" alt="Screenshot 2024-01-17 at 12 06 13 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/ba7492cc-bd44-460f-9472-6f792588f834">
 
@@ -153,15 +153,38 @@ Image source: [Medium](https://medium.com/javarevisited)
 16. Integration with JWT (JSON Web Tokens)
 17. Testing Security Configurations
 
-Reference Spring Security Official Documentations:
+Reference Spring Security Official Documentation:
 https://docs.spring.io/spring-security/reference/index.html
 
-Image source: https://technicalsand.com/
+Image source: https://technicalsand.com
 
-# 7. Testing:
+# 7. Testing
 
-Learn to write unit tests using JUnit and Mockito.
-Implement integration tests for Spring Boot applications.
+<img width="740" alt="Screenshot 2024-01-17 at 12 20 38 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6bab765-56e9-44da-8e50-a7efb61b7f70">
+
+1. Basics of Unit Testing
+2. Introduction to JUnit
+3. Writing Effective Test Cases
+4. Mockito Fundamentals
+5. Mocking and Stubbing
+6. Parameterized Tests
+7. Exception Testing
+8. Test Suites
+9. Integration Testing Basics
+10. Spring Boot Testing Annotations
+11. Mocking Dependencies in Spring Boot
+12. Database Testing
+13. Testing RESTful APIs
+14. Test Coverage and Code Quality
+15. Continuous Integration (CI) with Testing
+16. Test Driven Development (TDD)
+17. Testing asynchronous code
+
+Reference Spring Testing Official Documentation:
+https://docs.spring.io/spring-framework/reference/testing.html
+
+Image source: https://thepracticaldeveloper.com
+
 
 # 8. Microservices Architecture:
 
