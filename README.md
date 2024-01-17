@@ -332,8 +332,26 @@ Image source: Mesosphere
 
 # 14. CI/CD with Jenkins or GitLab CI:
 
-Set up continuous integration and continuous deployment pipelines.
-Automate the testing and deployment process.
+<img width="691" alt="Screenshot 2024-01-17 at 11 07 12 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/923b3157-2893-4da0-a6cf-8d0ac3be4942">
+
+1. Introduction to CI/CD
+2. Installing and Configuring Jenkins
+3. Creating Your First Jenkins Job
+4. Version Control Integration
+5. Build Tools Integration
+6. Automated Testing
+7. Artifact Management
+8. Continuous Deployment
+9. Pipeline as Code
+10. Jenkins Plugins
+11. Monitoring and Notifications
+12. Security in Jenkins
+
+Reference Jenkins Official Documentation:
+https://www.jenkins.io/doc/
+
+Image source: https://k-adithya21.medium.com/
+
 
 # 15. GraphQL with Spring Boot:
 
