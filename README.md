@@ -212,8 +212,26 @@ Image source: Foundersguide
 
 # 9. Messaging with Spring Boot:
 
-Learn about messaging patterns using Spring Boot.
-Explore tools like RabbitMQ or Apache Kafka.
+![SpringBootProducerConsumer](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bb59f0d3-f748-4844-b916-afd065c0e280)
+
+1. Introduction to Messaging
+2. Messaging Patterns
+3. Introduction to Message Brokers
+4. RabbitMQ
+5. Spring Boot with RabbitMQ
+6. Apache Kafka
+7. Spring Boot with Apache Kafka
+8. Messaging in Microservices
+9. Message Serialization and Deserialization
+10. Error Handling in Messaging Systems
+11. Asynchronous Processing
+12. Spring Cloud Stream
+13. Security in Messaging Systems
+
+Reference Messaging Official Documentation:
+https://docs.spring.io/spring-boot/docs/current/reference/html/messaging.html
+
+Image source: https://www.geeksforgeeks.org
 
 # 10. Spring Boot Actuator:
 
