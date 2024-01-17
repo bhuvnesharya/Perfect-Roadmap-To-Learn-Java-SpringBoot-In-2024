@@ -298,7 +298,7 @@ https://docs.spring.io/spring-framework/reference/web/webflux.html
 
 Image source: https://reflectoring.io
 
-# 13. Docker and Kubernetes:
+# 13. Docker and Kubernetes
 
 ![613a44474f364046f0e4c873_graph](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/621580af-4893-4a91-8978-7ebcc16f2d9f)
 
@@ -330,7 +330,7 @@ https://kubernetes.io/docs/home/
 
 Image source: Mesosphere
 
-# 14. CI/CD with Jenkins or GitLab CI:
+# 14. CI/CD with Jenkins or GitLab CI
 
 <img width="691" alt="Screenshot 2024-01-17 at 11 07 12 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/923b3157-2893-4da0-a6cf-8d0ac3be4942">
 
@@ -353,7 +353,7 @@ https://www.jenkins.io/doc/
 Image source: https://k-adithya21.medium.com/
 
 
-# 15. GraphQL with Spring Boot:
+# 15. GraphQL with Spring Boot
 
 <img width="758" alt="Screenshot 2024-01-17 at 11 22 29 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3200191e-e9fa-48e1-ab01-c17c208668f7">
 
@@ -376,7 +376,7 @@ https://graphql.org/learn/
 Image source: https://techdozo.dev/
 
 
-# 16. Logging and Monitoring:
+# 16. Logging and Monitoring
 
 Implement logging using tools like Logback.
 Explore monitoring solutions like Prometheus and Grafana.
