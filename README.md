@@ -403,8 +403,22 @@ Image source: https://medium.com/cloud-native-daily/
 
 # 17. Spring Boot Best Practices:
 
-Follow best practices for code organization and maintainability.
-Keep up-to-date with the latest community recommendations.
+<img width="823" alt="Screenshot 2024-01-17 at 11 59 38 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/9e2b52b6-46db-48c9-a21a-2bdfa3f89e54">
+
+1. Project Structure and Packaging
+2. Dependency Management
+3. Application Configuration
+4. Logging and Debugging
+5. Error Handling and Exception Logging
+6. Security Best Practices
+7. Data Access and ORM
+8. Performance Tuning
+9. Documentation and Comments
+10. Profile-based Configuration
+11. Versioning and API Evolution
+
+Image source: https://www.e4developer.com/
+
 
 # 18. Advanced Topics:
 
