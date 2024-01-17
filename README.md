@@ -300,8 +300,35 @@ Image source: https://reflectoring.io
 
 # 13. Docker and Kubernetes:
 
-Learn containerization with Docker.
-Deploy Spring Boot applications on Kubernetes.
+![613a44474f364046f0e4c873_graph](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/621580af-4893-4a91-8978-7ebcc16f2d9f)
+
+1. Introduction to Docker
+2. Installing Docker
+3. Docker Images
+4. Docker Containers
+5. Docker Compose
+6. Networking in Docker
+7. Docker Volumes
+8. Docker Registry
+9. Docker Security
+10. Introduction to Kubernetes
+11. Kubernetes Architecture
+12. Installing Kubernetes
+13. Kubectl
+14. Kubernetes Pods
+15. Kubernetes Deployments
+16. Services and Networking
+17. Kubernetes Configurations
+18. Persistent Volumes and Persistent Volume Claims
+19. Kubernetes Security
+
+Reference Docker Official Documentation:
+https://docs.docker.com/guides/get-started/
+
+Reference Kubernetes Official Documentation:
+https://kubernetes.io/docs/home/
+
+Image source: Mesosphere
 
 # 14. CI/CD with Jenkins or GitLab CI:
 
