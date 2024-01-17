@@ -109,8 +109,25 @@ https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 # 5. Data Persistence:
 
-Explore Spring Data JPA for database interactions.
-Implement CRUD operations and relationships between entities.
+<img width="650" alt="Screenshot 2024-01-17 at 11 46 51 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6a5b64c-abe7-46d4-b24f-2ce1b90117b9">
+
+1. Understand Data Persistence
+2. Learn Basics of Relational Databases
+3. Introduction to Spring Data JPA
+4. Spring Boot and Data JPA Integration
+5. Entity Relationships
+6. Query Methods and Named Queries
+7. Auditing with Spring Data JPA
+8. Pagination and Sorting
+9. Custom Repository Methods
+10. NoSQL Databases and Spring Data
+11. Spring Data REST
+12. Transaction Management
+13. Data Initialization
+14. Spring Data Envers
+
+Reference Spring Data JPA Official Documentation: 
+https://docs.spring.io/spring-data/jpa/reference/index.html
 
 # 6. Spring Security:
 
