@@ -257,10 +257,25 @@ https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/
 Image source: [Medium](https://medium.com/javarevisited)
 
 
-# 11. Spring Cloud:
+# 11. Spring Cloud
 
-Understand the basics of Spring Cloud.
-Implement service discovery, configuration management, and client-side load balancing.
+![overview](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/feaf3320-d12d-403d-bad3-1fb9000c42d8)
+
+1. Introduction to Spring Cloud
+2. Configuring Microservices with Spring Cloud Config
+3. Service Discovery with Eureka
+4. Load Balancing with Ribbon
+5. API Gateway with Spring Cloud Gateway
+6. Distributed Tracing with Sleuth and Zipkin
+7. Fault Tolerance with Hystrix
+8. Event-Driven Communication with Spring Cloud Stream
+9. Security in Microservices with Spring Cloud Security
+10. Distributed Configuration with Consul
+11. Circuit Breaker and Stateful Communication
+12. Monitoring and Management
+
+Reference Spring Cloud Official Documentation:
+https://spring.io/projects/spring-cloud/
 
 # 12. Reactive Programming:
 
