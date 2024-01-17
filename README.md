@@ -210,7 +210,7 @@ https://microservices.io/patterns/microservices.html
 Image source: Foundersguide
 
 
-# 9. Messaging with Spring Boot:
+# 9. Messaging with Spring Boot
 
 ![SpringBootProducerConsumer](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bb59f0d3-f748-4844-b916-afd065c0e280)
 
@@ -233,10 +233,29 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/messaging.html
 
 Image source: https://www.geeksforgeeks.org
 
-# 10. Spring Boot Actuator:
+# 10. Spring Boot Actuator
 
-Implement monitoring and management features in your application.
-Explore endpoints provided by Spring Boot Actuator.
+<img width="621" alt="Screenshot 2024-01-17 at 8 14 45 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/a305a1d2-e6ae-42df-ae9a-d850e3d75cb1">
+
+1. Introduction to Spring Boot Actuator
+2. Integration with Spring Boot
+3. Actuator Endpoints
+4. Custom Endpoints
+5. Security and Endpoints Protection
+6. Monitoring and Metrics
+7. Health Indicators
+8. Info Endpoint
+9. Logging and Auditing
+10. Exposing Additional Information
+11. Remote Management with JMX
+12. Events and Event Listeners
+13. Spring Boot Admin
+
+Reference Spring Boot Actuator Official Documentation:
+https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/
+
+Image source: [Medium](https://medium.com/javarevisited)
+
 
 # 11. Spring Cloud:
 
