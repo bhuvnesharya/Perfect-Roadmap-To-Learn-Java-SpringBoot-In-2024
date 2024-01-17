@@ -186,10 +186,29 @@ https://docs.spring.io/spring-framework/reference/testing.html
 Image source: https://thepracticaldeveloper.com
 
 
-# 8. Microservices Architecture:
+# 8. Microservices Architecture
 
-Understand the principles of microservices architecture.
-Explore how Spring Boot facilitates building microservices.
+![mpBD48D](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/21d4c636-b2e5-41f2-87f1-0be7c39846f3)
+
+1. Introduction to Microservices
+2. Advantages and Challenges
+3. Building a Monolith with Spring Boot
+4. Microservices Design Patterns
+5. Spring Boot for Microservices
+6. Decomposing the Monolith into Microservices
+7. Communication Between Microservices
+8. Service Discovery
+9. API Gateway
+10. Distributed Data Management
+11. Fault Tolerance and Resilience
+12. Security in Microservices
+13. Microservices Testing Strategies
+
+Reference Microservices Architecture Documentation:
+https://microservices.io/patterns/microservices.html
+
+Image source: Foundersguide
+
 
 # 9. Messaging with Spring Boot:
 
