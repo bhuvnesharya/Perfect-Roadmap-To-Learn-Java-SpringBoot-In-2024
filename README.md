@@ -129,10 +129,34 @@ https://docs.github.com/en/rest?apiVersion=2022-11-28
 Reference Spring Data JPA Official Documentation: 
 https://docs.spring.io/spring-data/jpa/reference/index.html
 
+Image source: [Medium](https://medium.com/javarevisited)
+
 # 6. Spring Security:
 
-Secure your applications with Spring Security.
-Understand authentication and authorization mechanisms.
+<img width="829" alt="Screenshot 2024-01-17 at 12 06 13 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/ba7492cc-bd44-460f-9472-6f792588f834">
+
+1. Introduction to Security Concepts
+2. Basic Spring Security Configuration
+3. Authentication Providers
+4. Password Encryption
+5. Custom Authentication
+6. Authorization
+7. Method-Level Security
+8. Spring Security Expression Language (SpEL)
+9. OAuth 2.0 and OpenID Connect
+10. Single Sign-On (SSO)
+11. Cross-Site Request Forgery (CSRF) Protection
+12. Session Management
+13. Security Headers
+14. Secure File Uploads
+15. Spring Security with Spring Boot Actuator
+16. Integration with JWT (JSON Web Tokens)
+17. Testing Security Configurations
+
+Reference Spring Security Official Documentations:
+https://docs.spring.io/spring-security/reference/index.html
+
+Image source: https://technicalsand.com/
 
 # 7. Testing:
 
