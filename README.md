@@ -355,7 +355,26 @@ Image source: https://k-adithya21.medium.com/
 
 # 15. GraphQL with Spring Boot:
 
-Explore GraphQL and its integration with Spring Boot.
+<img width="758" alt="Screenshot 2024-01-17 at 11 22 29 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3200191e-e9fa-48e1-ab01-c17c208668f7">
+
+1. Introduction to GraphQL
+2. Basic GraphQL Queries
+3. GraphQL Mutations
+4. Data Fetching with DataLoaders
+5. Pagination and Filtering
+6. GraphQL and JPA Integration
+7. Error Handling in GraphQL
+8. Securing GraphQL Endpoints
+9. GraphQL and Spring Security Integration
+10. Testing GraphQL Endpoints
+11. Performance Optimization
+12. GraphQL Best Practices
+
+Reference GraphQL Official Documentation:
+https://graphql.org/learn/
+
+Image source: https://techdozo.dev/
+
 
 # 16. Logging and Monitoring:
 
