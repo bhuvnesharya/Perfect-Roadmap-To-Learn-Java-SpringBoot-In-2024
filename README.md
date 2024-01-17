@@ -378,8 +378,28 @@ Image source: https://techdozo.dev/
 
 # 16. Logging and Monitoring
 
-Implement logging using tools like Logback.
-Explore monitoring solutions like Prometheus and Grafana.
+<img width="1027" alt="Screenshot 2024-01-17 at 11 40 56 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/b8b6c680-ab57-4ab7-aa56-53d408424dfa">
+
+1. Introduction to Logging
+2. Logging Frameworks
+3. Logging Best Practices
+4. Log Analysis Tools
+5. Centralized Logging
+6. Monitoring Concepts
+7. Application Performance Monitoring (APM)
+8. Custom Metrics and Instrumentation
+9. Alerting and Notification
+10. Distributed Tracing
+11. Infrastructure Monitoring
+12. Containerized Environments
+13. Security Monitoring
+14. Incident Response and Root Cause Analysis
+15. Compliance and Audit Logging
+
+Reference ELK Official Documentation:
+https://www.elastic.co/guide/index.html
+
+Image source: https://medium.com/cloud-native-daily/
 
 # 17. Spring Boot Best Practices:
 
