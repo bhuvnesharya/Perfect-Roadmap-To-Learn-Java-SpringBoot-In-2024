@@ -423,8 +423,27 @@ Image source: https://www.e4developer.com/
 
 # 18. Advanced Topics:
 
-Delve into advanced Spring Boot features like AOP and Spring Boot starters.
-Explore Spring Boot integrations with other technologies.
+<img width="706" alt="Screenshot 2024-01-18 at 4 14 08 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/06065e59-d4b5-42a1-a1ea-3c151996849f">
+
+1. Spring Integration with external systems
+2. Spring Batch
+3. Spring Security Advanced Topics
+4. Spring Testing Strategies
+5. Spring Boot DevTools
+6. Spring Boot Starters
+7. Spring WebSockets
+8. Spring Cloud Data Flow
+9. Spring Cloud Sleuth and Zipkin
+10. Spring Cloud Circuit Breaker (Resilience4j and Hystrix)
+11. Spring Cloud Gateway
+12. Spring Boot Data Initialization
+13. Spring Boot Flyway and Liquibase
+14. Event-driven architecture with Spring Boot and Kafka
+
+Reference Spring Batch Official Documentation:
+https://docs.spring.io/spring-batch/reference/index.html
+
+Image source: https://gainjavaknowledge.medium.com/
 
 # 19. Real-world Projects and Challenges:
 
