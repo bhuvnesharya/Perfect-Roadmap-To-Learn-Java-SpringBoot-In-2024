@@ -76,32 +76,7 @@ https://docs.spring.io/spring-framework/reference/index.html
 Reference Spring Boot Official Documentation:
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
-# 4. Building RESTful APIs
-
-<img width="903" alt="Screenshot 2024-01-17 at 1 16 12 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bbb0bed9-5f30-4ac8-8d56-6d8024b3a8e1">
-
-1. Understand RESTful Principles
-2. Set Up a Development Environment
-3. Plan API Endpoints
-4. HTTP Methods and Status Codes
-5. Request and Response Formats
-6. RESTful Routing
-7. Authentication and Authorization
-8. Request Validation
-9. Serialization and Deserialization
-10. API Documentation
-11. Error Handling
-12. Rate Limiting
-13. Testing
-14. Versioning
-15. Security Best Practices
-16. Logging and Monitoring
-17. Cross-Origin Resource Sharing (CORS)
-
-Reference REST API Official Documentation: 
-https://docs.github.com/en/rest?apiVersion=2022-11-28
-
-# 5. Spring Data
+# 4. Spring Data
 
 <img width="650" alt="Screenshot 2024-01-17 at 11 46 51 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6a5b64c-abe7-46d4-b24f-2ce1b90117b9">
 
@@ -125,7 +100,7 @@ https://docs.spring.io/spring-data/jpa/reference/index.html
 
 Image source: [Medium](https://medium.com/javarevisited)
 
-# 6. Spring Security
+# 5. Spring Security
 
 <img width="829" alt="Screenshot 2024-01-17 at 12 06 13 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/ba7492cc-bd44-460f-9472-6f792588f834">
 
@@ -152,7 +127,7 @@ https://docs.spring.io/spring-security/reference/index.html
 
 Image source: https://technicalsand.com
 
-# 7. Unit Testing
+# 6. Spring Boot Test
 
 <img width="740" alt="Screenshot 2024-01-17 at 12 20 38 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6bab765-56e9-44da-8e50-a7efb61b7f70">
 
@@ -179,7 +154,7 @@ https://docs.spring.io/spring-framework/reference/testing.html
 
 Image source: https://thepracticaldeveloper.com
 
-# 8. GraphQL with Spring Boot
+# 7. GraphQL with Spring Boot
 
 <img width="758" alt="Screenshot 2024-01-17 at 11 22 29 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3200191e-e9fa-48e1-ab01-c17c208668f7">
 
@@ -202,7 +177,7 @@ https://graphql.org/learn/
 Image source: https://techdozo.dev/
 
 
-# 9. Messaging with Spring Boot
+# 8. Messaging with Spring Boot
 
 ![SpringBootProducerConsumer](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bb59f0d3-f748-4844-b916-afd065c0e280)
 
@@ -225,7 +200,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/messaging.html
 
 Image source: https://www.geeksforgeeks.org
 
-# 10. Spring Boot Actuator
+# 9. Spring Boot Actuator
 
 <img width="621" alt="Screenshot 2024-01-17 at 8 14 45 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/a305a1d2-e6ae-42df-ae9a-d850e3d75cb1">
 
@@ -248,7 +223,7 @@ https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/
 
 Image source: [Medium](https://medium.com/javarevisited)
 
-# 11. Spring Batch:
+# 10. Spring Batch
 
 <img width="706" alt="Screenshot 2024-01-18 at 4 14 08 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/06065e59-d4b5-42a1-a1ea-3c151996849f">
 
@@ -268,7 +243,7 @@ https://docs.spring.io/spring-batch/reference/index.html
 Image source: https://gainjavaknowledge.medium.com/
 
 
-# 12. Spring Cloud
+# 11. Spring Cloud
 
 ![overview](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/feaf3320-d12d-403d-bad3-1fb9000c42d8)
 
@@ -288,7 +263,7 @@ Image source: https://gainjavaknowledge.medium.com/
 Reference Spring Cloud Official Documentation:
 https://spring.io/projects/spring-cloud/
 
-# 13. Spring AI
+# 12. Spring AI
 
 <img width="245" height="206" alt="image" src="https://github.com/user-attachments/assets/a079f460-48d3-4186-a4a7-7a5d334d6f0d" />
 
@@ -309,7 +284,7 @@ https://spring.io/projects/spring-cloud/
    - Integrate AI insights into analytics, monitoring, or business workflows
 10. Monitor and Scale AI Workloads
 
-# 14. Reactive Programming
+# 13. Reactive Programming
 
 <img width="847" alt="Screenshot 2024-01-17 at 10 11 49 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/16b10cc6-c2ea-419b-aafa-458f63c3c821">
 
@@ -323,6 +298,31 @@ Reference Spring WebFlux Official Documentation:
 https://docs.spring.io/spring-framework/reference/web/webflux.html
 
 Image source: https://reflectoring.io
+
+# 14. Building RESTful APIs
+
+<img width="903" alt="Screenshot 2024-01-17 at 1 16 12 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/bbb0bed9-5f30-4ac8-8d56-6d8024b3a8e1">
+
+1. Understand RESTful Principles
+2. Set Up a Development Environment
+3. Plan API Endpoints
+4. HTTP Methods and Status Codes
+5. Request and Response Formats
+6. RESTful Routing
+7. Authentication and Authorization
+8. Request Validation
+9. Serialization and Deserialization
+10. API Documentation
+11. Error Handling
+12. Rate Limiting
+13. Testing
+14. Versioning
+15. Security Best Practices
+16. Logging and Monitoring
+17. Cross-Origin Resource Sharing (CORS)
+
+Reference REST API Official Documentation: 
+https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 # 15. Microservices Architecture
 
