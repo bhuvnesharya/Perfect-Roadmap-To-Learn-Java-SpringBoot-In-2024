@@ -1,11 +1,5 @@
-# Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024
-Roadmap To Learn Java SpringBoot in 2024
-
-# Role of Software Developer?
-
-<img width="686" alt="Screenshot 2024-01-17 at 12 21 15 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/edfce4d4-39c1-4df2-97d4-dd2736802ba3">
-
-Image source: https://productcoalition.com/
+# Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2025-26
+Roadmap To Learn Java SpringBoot in 2025-26
 
 # 1. Java Fundamentals
 
@@ -22,16 +16,19 @@ Image source: https://productcoalition.com/
 8. File I/O
 9. Threads and Concurrency
 10. Java API
-11. Java 8 and above Features
+11. Modern Java Features (Java 8–21)
+  - Streams, Lambdas, Optional
+  - Records, Sealed Classes, Pattern Matching
+  - Virtual Threads (Project Loom)
 12. Design Patterns
 13. Java Memory Management
 14. Unit Testing
 15. Java Frameworks
-16. Build Tools
+16. Build Tools (Maven, Gradle)
 17. Version Control
 18. Coding Standards
 19. IDE Proficiency
-20. Java Latest Features
+20. Performance Tuning and Garbage Collection
 
 Reference Java Official Documentation:
 https://docs.oracle.com/en/java/javase/index.html
@@ -45,15 +42,14 @@ https://docs.oracle.com/en/java/javase/index.html
 2. Setting Up Spring Environment
 3. Inversion of Control (IoC)
 4. Dependency Injection (DI)
-5. Spring Beans
-6. Bean Scopes
-7. Bean Lifecycle
-8. Introduction to Aspect-Oriented Programming (AOP)
-9. Spring AOP Implementation
-10. Data Access with Spring JDBC
-11. Spring ORM
-12. Spring Transactions
-13. Spring MVC Basics
+5. Spring Beans and Scopes
+6. Bean Lifecycle and Context
+7. Annotation-based Configuration (@Configuration, @ComponentScan)
+8. Profiles and Conditional Beans (@Profile, @Conditional)
+9. Introduction to Aspect-Oriented Programming (AOP)
+10. Spring AOP Implementation
+11. Spring JDBC & Transactions
+12. Spring MVC Basics
 
 Reference Spring Framework Official Documentation:
 https://docs.spring.io/spring-framework/reference/index.html
@@ -65,20 +61,17 @@ https://docs.spring.io/spring-framework/reference/index.html
 1. Understanding Spring Boot
 2. Setting Up a Spring Boot Project
 3. Project Structure
-4. Spring Boot Auto-Configuration
-5. Application Properties and YAML Configuration
-6. Spring Boot Starters
-7. Spring Boot Embedded Servers
-8. Spring Boot Actuator
-9. Spring Boot Profiles
-10. Externalized Configuration
-11. Spring Boot DevTools
-12. Logging in Spring Boot
-13. Spring Boot Testing
-14. Spring Boot Web
-15. Spring Boot Data
-16. Spring Boot Security
-17. Handling Exceptions
+4. Auto-Configuration
+5. YAML Configuration
+6. Starters and Dependencies
+7. Embedded Servers
+8. Profiles and External Configs
+9. Actuator
+10. DevTools
+11. Logging and Observability
+12. Spring Boot 3 and Native Image Support (GraalVM)
+13. Testing and Integration
+14. Handling Exceptions
 
 Reference Spring Boot Official Documentation:
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
@@ -108,7 +101,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 Reference REST API Official Documentation: 
 https://docs.github.com/en/rest?apiVersion=2022-11-28
 
-# 5. Data Persistence
+# 5. Spring Data
 
 <img width="650" alt="Screenshot 2024-01-17 at 11 46 51 AM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6a5b64c-abe7-46d4-b24f-2ce1b90117b9">
 
@@ -159,7 +152,7 @@ https://docs.spring.io/spring-security/reference/index.html
 
 Image source: https://technicalsand.com
 
-# 7. Testing
+# 7. Unit Testing
 
 <img width="740" alt="Screenshot 2024-01-17 at 12 20 38 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/d6bab765-56e9-44da-8e50-a7efb61b7f70">
 
@@ -186,29 +179,27 @@ https://docs.spring.io/spring-framework/reference/testing.html
 
 Image source: https://thepracticaldeveloper.com
 
+# 8. GraphQL with Spring Boot
 
-# 8. Microservices Architecture
+<img width="758" alt="Screenshot 2024-01-17 at 11 22 29 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3200191e-e9fa-48e1-ab01-c17c208668f7">
 
-![mpBD48D](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/21d4c636-b2e5-41f2-87f1-0be7c39846f3)
+1. Introduction to GraphQL
+2. Basic GraphQL Queries
+3. GraphQL Mutations
+4. Data Fetching with DataLoaders
+5. Pagination and Filtering
+6. GraphQL and JPA Integration
+7. Error Handling in GraphQL
+8. Securing GraphQL Endpoints
+9. GraphQL and Spring Security Integration
+10. Testing GraphQL Endpoints
+11. Performance Optimization
+12. GraphQL Best Practices
 
-1. Introduction to Microservices
-2. Advantages and Challenges
-3. Building a Monolith with Spring Boot
-4. Microservices Design Patterns
-5. Spring Boot for Microservices
-6. Decomposing the Monolith into Microservices
-7. Communication Between Microservices
-8. Service Discovery
-9. API Gateway
-10. Distributed Data Management
-11. Fault Tolerance and Resilience
-12. Security in Microservices
-13. Microservices Testing Strategies
+Reference GraphQL Official Documentation:
+https://graphql.org/learn/
 
-Reference Microservices Architecture Documentation:
-https://microservices.io/patterns/microservices.html
-
-Image source: Foundersguide
+Image source: https://techdozo.dev/
 
 
 # 9. Messaging with Spring Boot
@@ -257,8 +248,27 @@ https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/
 
 Image source: [Medium](https://medium.com/javarevisited)
 
+# 11. Spring Batch:
 
-# 11. Spring Cloud
+<img width="706" alt="Screenshot 2024-01-18 at 4 14 08 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/06065e59-d4b5-42a1-a1ea-3c151996849f">
+
+1. Introduction to Spring Batch
+2. Core Components (Job, Step, ItemReader, ItemProcessor, ItemWriter)
+3. Advanced Concepts (JobRepository, JobLauncher, JobParameters, JobExecutionListener / StepExecutionListener, Transaction Management, Job Restart and Recovery)
+4. Chunk-Oriented Processing
+5. Parallel and Scalable Processing
+6. Data Sources and Integration
+7. Error Handling and Retry
+8. Monitoring and Management
+9. Testing Spring Batch Jobs
+
+Reference Spring Batch Official Documentation:
+https://docs.spring.io/spring-batch/reference/index.html
+
+Image source: https://gainjavaknowledge.medium.com/
+
+
+# 12. Spring Cloud
 
 ![overview](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/feaf3320-d12d-403d-bad3-1fb9000c42d8)
 
@@ -278,28 +288,63 @@ Image source: [Medium](https://medium.com/javarevisited)
 Reference Spring Cloud Official Documentation:
 https://spring.io/projects/spring-cloud/
 
-# 12. Reactive Programming
+# 13. Spring AI
+
+<img width="245" height="206" alt="image" src="https://github.com/user-attachments/assets/a079f460-48d3-4186-a4a7-7a5d334d6f0d" />
+
+1. Introduction to Spring AI
+2. LLM Abstractions (ChatModel, EmbeddingModel, ImageModel)
+3. Prompt Templates
+4. AI Client Configuration (spring-ai-starter-openai, spring-ai-starter-ollama)
+5. Memory and Context Handling
+6. Embeddings and Vector Databases (PostgreSQL (pgvector), Redis, Pinecone, or Milvus)
+7. RAG (Retrieval-Augmented Generation)
+   - Combine LLMs with your data
+   - Build RAG pipelines using DocumentRetriever and EmbeddingModel
+8. AI Agents and Tools
+   - Build agents that can call APIs or databases
+   - Chain tasks using the Spring AI Function Calling API
+9. Integrating AI with Microservices
+   - Use AI endpoints as internal microservices
+   - Integrate AI insights into analytics, monitoring, or business workflows
+10. Monitor and Scale AI Workloads
+
+# 14. Reactive Programming
 
 <img width="847" alt="Screenshot 2024-01-17 at 10 11 49 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/16b10cc6-c2ea-419b-aafa-458f63c3c821">
 
-1. Introduction to Reactive Programming
-2. Reactive Manifesto
-3. Reactive Streams API
-4. Project Reactor
-5. RxJava
-6. Asynchronous Programming
-7. Reactive Programming in Spring
-8. Functional Reactive Programming (FRP)
-9. Reactive Databases
-10. Backpressure Handling
-11. Testing Reactive Code
+1. Reactive Streams and Project Reactor
+2. Mono & Flux
+3. Backpressure Handling
+4. Testing Reactive Code
+5. Hybrid Model: Combining Virtual Threads with Reactive Flow
 
 Reference Spring WebFlux Official Documentation:
 https://docs.spring.io/spring-framework/reference/web/webflux.html
 
 Image source: https://reflectoring.io
 
-# 13. Docker and Kubernetes
+# 15. Microservices Architecture
+
+![mpBD48D](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/21d4c636-b2e5-41f2-87f1-0be7c39846f3)
+
+1. Microservices Fundamentals
+2. API Gateway (Spring Cloud Gateway)
+3. Service Discovery (Eureka/Consul)
+4. Configuration Server
+5. Circuit Breaker (Resilience4j)
+6. Distributed Tracing (Micrometer, Zipkin, Sleuth)
+7. Fault Tolerance and Observability
+8. Event-Driven Microservices
+9. Async Communication (Kafka, RabbitMQ)
+10. AI-Assisted Microservices — Integrating AI Agents in Services
+
+Reference Microservices Architecture Documentation:
+https://microservices.io/patterns/microservices.html
+
+Image source: Foundersguide
+
+# 16. Docker and Kubernetes
 
 ![613a44474f364046f0e4c873_graph](https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/621580af-4893-4a91-8978-7ebcc16f2d9f)
 
@@ -331,7 +376,7 @@ https://kubernetes.io/docs/home/
 
 Image source: Mesosphere
 
-# 14. CI/CD with Jenkins or GitLab CI
+# 17. CI/CD with Jenkins or GitLab CI
 
 <img width="691" alt="Screenshot 2024-01-17 at 11 07 12 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/923b3157-2893-4da0-a6cf-8d0ac3be4942">
 
@@ -353,31 +398,7 @@ https://www.jenkins.io/doc/
 
 Image source: https://k-adithya21.medium.com/
 
-
-# 15. GraphQL with Spring Boot
-
-<img width="758" alt="Screenshot 2024-01-17 at 11 22 29 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/3200191e-e9fa-48e1-ab01-c17c208668f7">
-
-1. Introduction to GraphQL
-2. Basic GraphQL Queries
-3. GraphQL Mutations
-4. Data Fetching with DataLoaders
-5. Pagination and Filtering
-6. GraphQL and JPA Integration
-7. Error Handling in GraphQL
-8. Securing GraphQL Endpoints
-9. GraphQL and Spring Security Integration
-10. Testing GraphQL Endpoints
-11. Performance Optimization
-12. GraphQL Best Practices
-
-Reference GraphQL Official Documentation:
-https://graphql.org/learn/
-
-Image source: https://techdozo.dev/
-
-
-# 16. Logging and Monitoring
+# 18. Logging and Monitoring
 
 <img width="1027" alt="Screenshot 2024-01-17 at 11 40 56 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/b8b6c680-ab57-4ab7-aa56-53d408424dfa">
 
@@ -402,7 +423,7 @@ https://www.elastic.co/guide/index.html
 
 Image source: https://medium.com/cloud-native-daily/
 
-# 17. Spring Boot Best Practices:
+# 19. Spring Boot Best Practices:
 
 <img width="823" alt="Screenshot 2024-01-17 at 11 59 38 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/9e2b52b6-46db-48c9-a21a-2bdfa3f89e54">
 
@@ -420,37 +441,22 @@ Image source: https://medium.com/cloud-native-daily/
 
 Image source: https://www.e4developer.com/
 
+# 20. Real-world Projects and Challenges:
 
-# 18. Advanced Topics:
+  - Build a Product Recommendation Engine using Spring Boot + Spring AI
 
-<img width="706" alt="Screenshot 2024-01-18 at 4 14 08 PM" src="https://github.com/bhuvnesharya/Perfect-Roadmap-To-Learn-Java-SpringBoot-In-2024/assets/23649263/06065e59-d4b5-42a1-a1ea-3c151996849f">
+  - Develop a ChatOps Dashboard for DevOps metrics
 
-1. Spring Integration with external systems
-2. Spring Batch
-3. Spring Security Advanced Topics
-4. Spring Testing Strategies
-5. Spring Boot DevTools
-6. Spring Boot Starters
-7. Spring WebSockets
-8. Spring Cloud Data Flow
-9. Spring Cloud Sleuth and Zipkin
-10. Spring Cloud Circuit Breaker (Resilience4j and Hystrix)
-11. Spring Cloud Gateway
-12. Spring Boot Data Initialization
-13. Spring Boot Flyway and Liquibase
-14. Event-driven architecture with Spring Boot and Kafka
+  - Implement LLM-powered Order Management System (AI-driven CRUD)
 
-Reference Spring Batch Official Documentation:
-https://docs.spring.io/spring-batch/reference/index.html
+  - Create a Microservice-based RAG Knowledge Base
 
-Image source: https://gainjavaknowledge.medium.com/
+# 21. Stay Updated:
 
-# 19. Real-world Projects and Challenges:
+  - Follow Spring.io, VMware Tanzu Blog
 
-Apply your knowledge to real-world projects.
-Solve challenges to reinforce your skills.
+  - Explore Spring AI GitHub Repository
 
-# 20. Stay Updated:
+  - Contribute to open-source projects
 
-Regularly check for updates and new releases in the Spring ecosystem.
-Engage with the Spring community through forums, conferences, and meetups.
+  - Learn from community experts on YouTube and GitHub
